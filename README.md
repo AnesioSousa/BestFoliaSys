@@ -14,11 +14,12 @@ Devido a essa problemática, criei esse sistema para gerenciar os transportes qu
 na avenida. Também foi feita uma classificação dos transportes a partir dos blocos que vão estar na folia. 
 
 ## Como instalar o sistema ⚙️
-Para executar o sistema é bem fácil, primeiro faça um clone local do repositório em sua máquina:
+Para instalar o sistema é bem fácil, primeiro faça um clone local do repositório em sua máquina:
 ```bash
 git clone https://github.com/AnesioSousa/BestFoliaSys.git
 ```
+Você também pode baixar como zip e abrir em sua IDE preferida, duas das mais comuns são a Intellij ou o VSCode.
 ## Como executá-lo 🚀
-
+Para executar o sistema também é moleza, abra um terminal  
 
 
