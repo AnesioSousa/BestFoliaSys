@@ -20,6 +20,4 @@ git clone https://github.com/AnesioSousa/BestFoliaSys.git
 ```
 Você também pode baixar como zip e abrir em sua IDE preferida, duas das mais comuns são a Intellij ou o VSCode.
 ## Como executá-lo 🚀
-Para executar o sistema também é moleza, abra um terminal  
-
-
+Para executar o sistema também é moleza, abra um terminal ou sua IDE favorita, crie uma classe qualquer que possua um método main. Instancie um objeto da classe ControllerBFS contida no diretório 'src/br/uefs/ecomp/bfs/controller' e pronto! Você pode manipular esse objeto cadastrando foliões, transportes e blocos.
